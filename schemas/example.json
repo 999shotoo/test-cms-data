@@ -1,0 +1,26 @@
+{
+  "name": "example",
+  "displayName": "Example Collection",
+  "description": "An example collection schema",
+  "fields": [
+    {
+      "name": "title",
+      "type": "text",
+      "required": true,
+      "label": "Title"
+    },
+    {
+      "name": "content",
+      "type": "textarea",
+      "required": true,
+      "label": "Content"
+    },
+    {
+      "name": "published",
+      "type": "boolean",
+      "required": false,
+      "label": "Published",
+      "default": false
+    }
+  ]
+}
