@@ -1,0 +1,12 @@
+{
+  "name": "test-cms-data",
+  "version": "1.0.0",
+  "created": "2025-08-15T16:21:37.262Z",
+  "collections": [],
+  "settings": {
+    "defaultBranch": "main",
+    "assetsPath": "assets",
+    "collectionsPath": "collections",
+    "schemasPath": "schemas"
+  }
+}
